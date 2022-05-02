@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Federico Chung @fchung1224
 - 👀 I’m interested in Data (Science and Engineering)
 - 🌱 I’m currently a MS Statistics Student at the University of Washington
-- 💞️ I’m looking to collaborate on NLP projects, Time Series projects, or any interesting ML/AI/DS applications
+- 💞️ I’m looking to collaborate on NLP projects, Time Series projects, Causal Inference projects, or any interesting ML/AI/DS applications
 - 📫 How to reach me fedechung@gmail.com
 
 <!---
